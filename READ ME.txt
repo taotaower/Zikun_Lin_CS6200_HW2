@@ -1,0 +1,15 @@
+READ ME *******************
+
+To run these Page Rank code, you need to make sure your python version is 2.7.10
+
+You can run any python file in the submitted folder by using command line "python theNameOfTheFile.py"
+
+like run 'webCrawler HW1.py', u type "python webCrawler HW1.py"
+
+To make sure u get the exactly the required result of the task in the output url-files, u can rename the submitted files,
+
+or you can change the output files' name in the code line "f = open("theNameOfTheFile.txt", "a")"
+
+or clean the contents in them, before you run the python file, otherwise you will get duplicate result than expected,
+
+thank you.

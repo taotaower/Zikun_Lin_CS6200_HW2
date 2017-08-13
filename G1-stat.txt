@@ -1,0 +1,47 @@
+Sources proportion:
+0.023023023023
+
+Sinks proportion:
+0.014014014014
+
+Source Pages:
+Sun
+War
+Baden-W%C3%BCrttemberg
+Gamesa_Corporaci%C3%B3n_Tecnol%C3%B3gica
+Dam
+Fat
+U.S._Army_Corps_of_Engineers
+Mark_Z._Jacobson
+Fr%C3%A9jus
+Bernard_Forest_de_B%C3%A9lidor
+Financial_crisis_of_2007%E2%80%9308
+Law
+Arne_N%C3%A6ss
+Agu%C3%A7adora_Wave_Park
+Grindav%C3%ADk
+Bloomberg_L.P.
+Kenneth_E._Boulding
+Bent_S%C3%B8rensen_(physicist)
+Fischer%E2%80%93Tropsch_process
+Earth%27s_atmosphere
+GDP
+E._F._Schumacher
+100%25_renewable_energy
+
+
+Sink Pages:
+Science_(journal)
+American_Public_Health_Association
+Conceptual_framework
+World_Commission_on_Dams
+Utilization
+Community_currencies
+Werlte
+Juncture
+John_Baden
+Knowledge_translation
+Georg_Ludwig_Hartig
+Dynamic_efficiency
+University_of_North_Carolina
+Nadya_Zhexembayeva
